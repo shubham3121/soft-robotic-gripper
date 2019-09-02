@@ -1,0 +1,7 @@
+Dependencies for Project 'Lab8', Target 'Lab8': (DO NOT MODIFY !)
+F (.\startup.s)(0x519797C2)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\SwitchLEDInterface.c)(0x570E49D3)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\switchledinterface.o --omf_browse .\switchledinterface.crf --depend .\switchledinterface.d)
+I (TExaS.h)(0x54A02D36)
+I (..\tm4c123gh6pm.h)(0x51D4154A)
+I (Port_Init.h)(0x56CD94B2)
+F (.\texas.o)(0x54A0EB2C)()
